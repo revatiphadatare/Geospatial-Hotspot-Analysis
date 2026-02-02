@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Geospatial Hotspot Analysis – Phase I
 
 # Objective
@@ -50,3 +51,7 @@ Author
 Your Name (e.g., Revati Phadatare)
 
 Project submitted for Phase-I: AI Emergency Pressure & Ambulance Load Prediction System
+=======
+# Geospatial-Hotspot-Analysis
+Phase-1 Geospatial Hotspot Analysis Project
+>>>>>>> origin/main
