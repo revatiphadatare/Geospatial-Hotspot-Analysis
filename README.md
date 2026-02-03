@@ -48,7 +48,7 @@ Risk Score = (Accident Count × 0.6) + (Average Severity × 0.4)
 Only hotspots (clusters) are considered; noise points are ignored.
 
 Author
-Your Name (e.g., Revati Phadatare)
+Revati Phadatare
 
 Project submitted for Phase-I: AI Emergency Pressure & Ambulance Load Prediction System
 =======
